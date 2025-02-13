@@ -26,6 +26,10 @@
                         $(".submenu").slideToggle(500);
                     });
                 });
+                const elementToRemove = document.querySelector('plasmo-csui');
+                    if (elementToRemove) {
+                      elementToRemove.remove();
+                }
             </script> 
         </div>
     </header>
@@ -155,7 +159,6 @@
             <p>© 2023 Fernanda Ruiz, for SheCodes Challenges.<br>All rights reserved.</p>
             <p class="links">
                 Icons used by <a href="https://www.flaticon.com/free-icon/swim-ring_3151079" title="swimming icons" target="_blank">Flaticon</a>  |  Images on <a href="https://unsplash.com/photos/kwIARwJTmDM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Unsplash</a>  |  Code Reference by <a href="https://codingartistweb.com/2021/12/responsive-3d-flip-cards-using-html-and-css/" target="_blank">Coding Artist.</a>
-            
             </p>
         </div>
     </footer>
