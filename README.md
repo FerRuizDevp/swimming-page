@@ -5,7 +5,7 @@
   "imagePreview": "https://github.com/FerRuizDevp/swimming-page/assets/117100019/3eb14f4a-5f47-437b-ba3e-744f001315b8",
   "githubLink": "https://github.com/FerRuizDevp/swimming-page",
   "netlifyLink": "https://swimming-page.netlify.app/",
-  "tags": ["more-project", "landing-page", "html", "css", "static-design"]
+  "tags": ["more-project", "landing-page", "HTML", "CSS", "static-design"]
 }
 -->
 ## 🥽 Swimming Page
