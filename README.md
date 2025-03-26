@@ -2,7 +2,6 @@
 {
   "title": "Swimming Page",
   "description": "A website for the SheCodes Challenges entry of August called Favorite Sport Challenge.",
-  "video": " ", 
   "imagePreview": "https://github.com/FerRuizDevp/swimming-page/assets/117100019/3eb14f4a-5f47-437b-ba3e-744f001315b8",
   "githubLink": "https://github.com/FerRuizDevp/swimming-page",
   "netlifyLink": "https://swimming-page.netlify.app/",
